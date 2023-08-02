@@ -230,8 +230,7 @@ public class GameFrame extends JFrame {
         about.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-            	JOptionPane.showMessageDialog(null, "Author:\nEmir Devlet Ertörer\n20210702040\n"
-            			+ "emirdevlet.ertorer@std.yeditepe.edu.tr");
+            	JOptionPane.showMessageDialog(null, "Author:\nEmir Devlet Ertörer\n");
             }
         });
 

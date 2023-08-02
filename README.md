@@ -24,3 +24,14 @@ This project is my implementation of the classic Space Invaders arcade game usin
     7) Aim to destroy all the alien invaders while avoiding their projectiles.
 
     8) The game ends when the player loses all three health bars.
+
+    9) Once you are in the game you will need to register to be able to play. From the top of the screen,
+       click on File -> Register. Enter your username and password.
+       
+    10) After registering, to play; click on File -> Play Game, and then enter your username and password.
+
+    11) Finally you will be prompted to choose difficulty (which affects enemy count and speed), and launch into the game.
+
+    12) If you want to see your previous scores; File -> High Score
+    
+    13) Enjoy :)

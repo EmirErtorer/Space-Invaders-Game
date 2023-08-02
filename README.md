@@ -1,13 +1,13 @@
-Space Invaders Game
+# Space Invaders Game
 
 This project is my implementation of the classic Space Invaders arcade game using Java.
 
 
-Introduction:
+# Introduction:
     Space Invaders is a classic arcade game where players control a spaceship and shoot at waves of descending alien invaders.
     The objective is to eliminate all the aliens before they reach the bottom of the screen and defeat the player.
 
-How to Play:
+# How to Play:
     
     1) Clone or download the repository to your local machine.
 

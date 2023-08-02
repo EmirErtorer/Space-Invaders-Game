@@ -18,7 +18,7 @@ This project is my implementation of the classic Space Invaders arcade game usin
     4) Compile the Java source files using the following command:
            javac src/*.java
     5) Run the game by executing the main class:
-          java -classpath src SpaceShip
+          java -classpath src SpaceInvaders
     6) Use the arrow keys or the "W, A, S, D" to control the spaceship, and spacebar to shoot lasers.
 
     7) Aim to destroy all the alien invaders while avoiding their projectiles.

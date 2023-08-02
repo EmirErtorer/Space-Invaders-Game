@@ -8,6 +8,7 @@ Introduction:
     The objective is to eliminate all the aliens before they reach the bottom of the screen and defeat the player.
 
 How to Play:
+    
     1) Clone or download the repository to your local machine.
 
     2) Ensure you have Java Development Kit (JDK) installed on your computer.
